@@ -1,0 +1,16 @@
+{
+  "rule_name": "sample_logic",
+  "conditions": [
+    {
+      "field": "country",
+      "operator": "equals",
+      "value": "India"
+    },
+    {
+      "field": "region",
+      "operator": "equals",
+      "value": "North"
+    }
+  ],
+  "action": "include"
+}
