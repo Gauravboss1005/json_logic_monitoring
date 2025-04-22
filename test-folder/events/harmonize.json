@@ -1,0 +1,11 @@
+{
+  "rule_name": "new_file",
+  "conditions": [
+    {
+      "field": "transaction_amount",
+      "operator": "greater_than",
+      "value": 1000
+    }
+  ],
+  "action": "flag"
+}
