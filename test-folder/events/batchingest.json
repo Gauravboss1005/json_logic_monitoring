@@ -4,7 +4,7 @@
     {
       "field": "country",
       "operator": "equals",
-      "value": "India"
+      "value": "USA"
     }
   ],
   "action": "include"
